@@ -1,11 +1,22 @@
 header{
    width: 100vw;
    height: 150px;
-   display: flex; 
+   display: flex;
+   align-items: center;
+   justify-content: center;
 }
 .logo{
    max-width: 250px;
 }
-ul{
-   
-}
+ ul{
+   list-style: none;
+   display: flex;
+   font-size: 18px;
+   font-weight: 400;
+ }
+ .nav__menu-item{
+   margin-right: 33px;
+ }
+ .fa-chevron-down{
+   margin-left: 3px;
+ }
