@@ -3,3 +3,9 @@ header{
    height: 150px;
    display: flex; 
 }
+.logo{
+   max-width: 250px;
+}
+ul{
+   
+}
