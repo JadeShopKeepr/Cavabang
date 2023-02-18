@@ -1,29 +1,57 @@
-.weCreate {
-    text-align: left;
-    font-weight: bold;
-    font-size: 50px;
+
+.mainBorder {
+   width: 100vw;
+   height: 80vh;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
 }
- 
-a.button {
-    display: inline-block;
-    background: #2196f3;
-    color: #fff;
-    padding: 20px;
-    border-radius: 50px;
-    text-decoration: none;
-    font-family: Tahoma;
-    font-size: 50px;
-    line-height: 1;
-    font-weight: 100;
+.main__container{
+   width: 100%;
+   height: 100%;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+  margin: 0 auto;
 }
-  
-div {
-    margin: 24px;
-    text-align: center;
+.mainBorder__left{
+   max-width: 500px;
+   margin-right: 65px;
+}
+.mainBorder__right{
+   max-width: 500px;
+   margin-left: 65px;
 }
 
+.mainBorder__title{
+   width: 100%;
+   font-size: 30px;
+   line-height: 1;
+   font-weight: 600;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+
+a.button {
+    display: inline-block;
+    background: var(--button-color);
+    color: var(--button-font-color);
+    margin-top: 50px;
+    padding: 20px 70px;
+    border-radius: 50px;
+    text-decoration: none;
+    font-size: 50px;
+    line-height: 1;
+    font-weight: 400;
+}
+  
+
+<<<<<<< HEAD
 .mainBorder {
     border: 5px solid darkblue;
     display: flex;
     align-items: center;
 }
+=======
+>>>>>>> 622d931e7813b4b5c9b794a26ae9f1e1cb770ab8
