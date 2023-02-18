@@ -24,4 +24,6 @@ div {
 
 .mainBorder {
     border: 5px solid darkblue;
+    display: flex;
+    align-items: center;
 }
