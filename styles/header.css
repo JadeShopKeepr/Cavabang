@@ -1,0 +1,37 @@
+header{
+   width: 100vw;
+   height: 150px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+<<<<<<< HEAD
+.wecreate {
+   text-align: left;
+   font-weight: bold;
+}
+
+a.button {
+   display: inline-block;
+   background: #2196f3;
+   color: #fff;
+   padding: 12px;
+   border-radius: 20px;
+   text-decoration: none;
+   font-family: Tahoma;
+=======
+.logo{
+   max-width: 250px;
+}
+ ul{
+   list-style: none;
+   display: flex;
+>>>>>>> f1d58ca38b0a8ef8270e8f3a4ea531c7739130e4
+   font-size: 18px;
+ }
+ .nav__menu-item{
+   margin-right: 33px;
+ }
+ .fa-chevron-down{
+   margin-left: 3px;
+ }
