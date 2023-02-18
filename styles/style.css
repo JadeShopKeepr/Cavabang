@@ -5,6 +5,7 @@ header{
 }
 .wecreate {
    text-align: left;
+   font-weight: bold;
 }
 
 a.button {
@@ -12,7 +13,7 @@ a.button {
    background: #2196f3;
    color: #fff;
    padding: 12px;
-   border-radius: 3px;
+   border-radius: 20px;
    text-decoration: none;
    font-family: Tahoma;
    font-size: 18px;
