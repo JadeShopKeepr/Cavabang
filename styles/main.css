@@ -47,3 +47,11 @@ a.button {
 }
   
 
+<<<<<<< HEAD
+.mainBorder {
+    border: 5px solid darkblue;
+    display: flex;
+    align-items: center;
+}
+=======
+>>>>>>> 622d931e7813b4b5c9b794a26ae9f1e1cb770ab8
