@@ -12,7 +12,6 @@ header{
    list-style: none;
    display: flex;
    font-size: 18px;
-   font-weight: 400;
  }
  .nav__menu-item{
    margin-right: 33px;
