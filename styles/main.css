@@ -15,18 +15,18 @@
   margin: 0 auto;
 }
 .hero__section-left{
-   max-width: 500px;
-   margin-right: 70px;
+   max-width: 600px;
+   margin-right: 60px;
 }
 .hero__section-right{
-   max-width: 550px;
-   margin-left: 60px;
+   max-width: 650px;
+   margin-left: 20px;
 }
 
 .hero__section-title{
    width: 100%;
-   font-size: 38px; 
-   line-height: 1;
+   font-size: 42px; 
+   line-height: 1.2;
    font-weight: 600;
    display: flex;
    flex-direction: column;
@@ -53,9 +53,10 @@ a.button:hover {
    transition: all .3s ease-in-out;
 }
 .image{
+   margin-bottom: 35px;
    background-color: var(--button-color);
-   width: 400px;
-   height: 500px;
+   width: 500px;
+   height: 250px;
 }
 
 .aboutUs{
